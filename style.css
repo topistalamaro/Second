@@ -1,0 +1,45 @@
+body {
+    font-family: cursive;
+}
+
+#header {
+    background-color:#a6f151;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+
+h1 {
+    vertical-align: middle;
+    color: white;
+    font-weight: bold;
+}
+
+.row {
+    margin: 10px 10px;
+}
+
+#results {
+    margin: 30px 20px 10px 0px;
+}
+
+.person-row {
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: #a6f151;
+    width: 50%;
+    float: center;
+}
+
+.person-row img {
+    float: left;
+    margin-right: 20px;
+}
+
+.personal-info {
+    float: left;
+}
+
+.person-row > button {
+   float: center; 
+}
